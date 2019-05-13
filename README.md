@@ -1,6 +1,6 @@
 # TwitterClient
-<img src="https://user-images.githubusercontent.com/41004390/57594240-690a6d00-7582-11e9-96f6-e215839bacaf.png" width="300">
-<img src="https://user-images.githubusercontent.com/41004390/57594242-69a30380-7582-11e9-8d0c-e8933a9fb8e1.png" width="300" float="right">
+<img src="https://user-images.githubusercontent.com/41004390/57594240-690a6d00-7582-11e9-96f6-e215839bacaf.png" width="300" style="text-align:center;">
+<img src="https://user-images.githubusercontent.com/41004390/57594242-69a30380-7582-11e9-8d0c-e8933a9fb8e1.png" width="300" style="text-align:center;">
 
 ## Development Environment
 - Swift5
