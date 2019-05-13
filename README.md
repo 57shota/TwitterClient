@@ -1,6 +1,7 @@
 # TwitterClient
 ![image1](https://user-images.githubusercontent.com/41004390/57594240-690a6d00-7582-11e9-96f6-e215839bacaf.png =140x70)
 ![image2](https://user-images.githubusercontent.com/41004390/57594242-69a30380-7582-11e9-8d0c-e8933a9fb8e1.png =140x70)
+<img src="https://user-images.githubusercontent.com/41004390/57594242-69a30380-7582-11e9-8d0c-e8933a9fb8e1.png" width="48">
 
 ## Development Environment
 - Swift5
